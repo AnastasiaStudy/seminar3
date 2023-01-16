@@ -58,7 +58,7 @@ Content Cell
 ! [](ссылка на картинку с ее расширением)
 ```
 Пример:
-![альтернативный тест](https://yandex.ru/images/search?text=ghbhjlf&from=tabbar&pos=1&img_url=http%3A%2F%2Fwiki.mininuniver.ru%2Fimages%2F8%2F87%2F%25D0%259F%25D1%2580%25D0%25B8%25D1%2580%25D0%25BE%25D0%25B4.jpeg&rpt=simage&lr=213)
+![альтернативный тест](Природ.jpg)
 
 bla bla
 ![картинка с шариком]()

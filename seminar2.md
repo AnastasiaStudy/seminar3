@@ -40,6 +40,13 @@ git checkout
 
 ## Как создавать таблицы
 
+В чистом Маркдауне нет синтаксиса для таблиц, а в GFM есть.
+First Header
+Content Cell
+Content Cell
+Second Header
+Content Cell
+Content Cell
 
 ## Как добавлять картинки
 
